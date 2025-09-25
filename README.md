@@ -1,4 +1,4 @@
 # Proyecto-Cierre-IoT-Stack
 
-## Ernesto Torres Pineda 
-## 22211665
+### Nombre Alumno:Ernesto Torres Pineda 
+### No. Control: 22211665
